@@ -16,5 +16,6 @@ public class App {
             salaire = salaire + prime;
         }
         System.out.println("Le salaire hebdo est de : " + salaire);
+        // blabla
     }
 }
